@@ -1,0 +1,7 @@
+- 단축키 전체 목록 
+  - ctrl + shift + L
+- 멀티컬럼 편집
+  - alt + shift + A
+- 자동 들여쓰기
+  - ctrl + i
+- 
